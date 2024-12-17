@@ -20,7 +20,7 @@ function facebook(){
         function youtube(){
             window.open("https://youtube.com/@abiuiuxdesigner?si=Bg9pSDwuCm2ZpxjA")}
             function res(){
-                window.open("file:///C:/Desktop/My%20RESUMAE.pdf")
+                window.open("file:///C:/Desktop/ABISHA%20RESUMAE.pdf")
             }
             function li(){
               window.open("https://github.com/abishakla")
