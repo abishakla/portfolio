@@ -20,7 +20,7 @@ function facebook(){
         function youtube(){
             window.open("https://youtube.com/@abiuiuxdesigner?si=Bg9pSDwuCm2ZpxjA")}
             function res(){
-                window.open("file:///C:/Desktop/ABISHA%20RESUMAE.pdf")
+                window.open("https://drive.google.com/file/d/1p72LYJIb7_u8KfSk0UlbZI6lRmlqssQI/view?usp=sharing")
             }
             function li(){
               window.open("https://github.com/abishakla")
